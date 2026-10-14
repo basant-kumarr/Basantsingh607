@@ -1,20 +1,12 @@
-# Hi, I'm Basant Kumar 👋
+# Basant Kumar
 
-**Business Analyst | Data & AI Analytics**  
-📍 Dublin, Ireland  
-🎓 MSc Business Analytics — Maynooth University  
-🔍 Open to Business Analyst and Data Analyst roles in Ireland
+**Business Analytics · Data Analytics · Applied AI**  
+📍 Celbridge, Co. Kildare, Ireland  
+🎓 MSc Business Analytics, Maynooth University (programme completed in 2026; award pending)  
+🔍 Exploring Business Analyst, Data Analyst, BI Analyst and applied AI/data opportunities.
 
-## What I build
-- 🔍 **Fraud Detection** — XGBoost model, 99.9% AUC-ROC, 
-  97.2% precision on 111K UK transactions
-- 📈 **Demand Forecasting** — ARIMA & Prophet time-series models in R
-- 👁️ **Computer Vision** — Real-time emotion & demographic detection
+For current projects, verified descriptions and portfolio links, please visit my main GitHub profile:
 
-## Skills
-`Python` `SQL` `R` `Tableau` `Power BI` `XGBoost` `ARIMA` `Prophet`  
-`Business Analysis` `KPI Design` `Stakeholder Management` `Agile`
+**[Main GitHub profile and project showcases](https://github.com/basant-kumarr)** · [Portfolio](https://basant-kumar-portfoli.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/)
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/basantsingh-)
-📧 basantsingh607@gmail.com
+This repository is an older profile README. Project information and evaluation figures here may be outdated; refer to the current project repositories for the latest documented details.
