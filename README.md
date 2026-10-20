@@ -2,7 +2,7 @@
 
 **Business Analytics · Data Analytics · Applied AI**  
 📍 Celbridge, Co. Kildare, Ireland  
-🎓 MSc Business Analytics, Maynooth University (programme completed in 2026; award pending)  
+🎓 MSc Business Analytics, Maynooth University — awarded October 2026, Second Class Honours Grade I  
 🔍 Exploring Business Analyst, Data Analyst, BI Analyst and applied AI/data opportunities.
 
 For current projects, verified descriptions and portfolio links, please visit my main GitHub profile:
